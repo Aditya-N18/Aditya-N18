@@ -1,6 +1,6 @@
 ﻿# Aditya-N18
 # 💫 About Me:
-👋 I’m Aditya Nagpal, budding Frontend Engineer studying at SJSU (Computer Science and Linguistics Major).<br>👯 I’m currently working on my Edtech Startup(Announcing Soon).<br>🤝 I’m looking to Collaborate on Cool Stuff.<br>🌱 I’m currently learning AI/ML and Classical Guitar.<br>💬 Ask me about CS projects, college life at aditya.nagpal@sjsu.edu<br>⚡ Fun fact- I Play for SJSU Badminton.
+👋 I’m Aditya Nagpal, budding AI/ML dork studying at SJSU (Computer Science and Linguistics Major).<br>👯 I’m currently working on my Edtech Startup(Announcing Soon).<br>🤝 I’m looking to Collaborate on Cool Stuff.<br>🌱 I’m currently learning AI/ML and Classical Guitar.<br>💬 Ask me about CS projects, college life at aditya.nagpal@sjsu.edu<br>⚡ Fun fact- I Play for SJSU Badminton.
 
 
 ## 🌐 Socials:
